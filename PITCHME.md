@@ -40,3 +40,27 @@ Heavy SQL use
 
 TriCo
 
+---
+
+PEDSnet OMOP
+DCC?
+PMO?
+
+ds training 1, slide 8
+
+consistent semanitics from multiple sources
+-parexel
+--integrations with external data sources
+--black box inventory
+--
+-inria
+
+---
+
+Working with others
+
+Commit messages
+Email
+Project trackers
+Tickets
+Instant Messaging
