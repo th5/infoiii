@@ -20,6 +20,8 @@ CRO
 
 Randomization and trial supply management
 
+Each study is a web app
+
 ---
 
 Parexel
