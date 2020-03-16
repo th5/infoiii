@@ -40,6 +40,10 @@ Heavy SQL use
 
 TriCo
 
+DSpace
+
+Role based permissions
+
 ---
 
 PEDSnet OMOP
