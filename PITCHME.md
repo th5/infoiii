@@ -58,6 +58,14 @@ parexel
 * integrations with external data sources
 * black box inventory
 
+CDM
+Shared data model 
+* Structural and semantic consistency across applications and deployments.
+* Simplified integration and disambiguation of data that's collected from processes, digital interactions, product telemetry, people interactions, and so on.
+* A unified shape, where data integrations can combine existing enterprise data with other sources and use that data holistically to develop apps or derive insights.
+* The ability to extend the schema and Common Data Model standard entities to tailor the model to your organization.
+
+
 inria
 
 ---
