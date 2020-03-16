@@ -49,11 +49,11 @@ PMO?
 ds training 1, slide 8
 
 consistent semanitics from multiple sources
-*parexel
---integrations with external data sources
---black box inventory
---
--inria
+parexel
+  integrations with external data sources
+  black box inventory
+
+inria
 
 ---
 
