@@ -4,11 +4,35 @@ Tom Hutchinson
 
 ---
 
+Educational foundation: Computer Science and Mathematics
+
+Continual on the job learning based on organization's needs
+
+---
+
 Parexel
 
-+++
+---
 
-Sub-slide
+Parexel
+
+CRO
+
+Randomization and trial supply management
+
+---
+
+Parexel
+
+Data wrangling
+
+---
+
+Parexel
+
+Data wrangling
+
+Heavy SQL use
 
 ---
 
