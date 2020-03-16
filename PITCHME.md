@@ -65,9 +65,12 @@ Shared data model
 * A unified shape, where data integrations can combine existing enterprise data with other sources and use that data holistically to develop apps or derive insights.
 * The ability to extend the schema and Common Data Model standard entities to tailor the model to your organization.
 
+training 1, slide 12 - OMOP model
+
 Wikipedia
 
-training 1, slide 12 - OMOP model
+mapping
+cross-walk
 
 inria
 
