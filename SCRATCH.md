@@ -96,3 +96,7 @@ Logistic regression
 
 
 Observational study = retroactive study
+
+
+
+OMOP = PI tables + controlled vocabulary
