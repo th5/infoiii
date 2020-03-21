@@ -99,4 +99,4 @@ Observational study = retroactive study
 
 
 
-OMOP = PI tables + controlled vocabulary
+OMOP = PI tables + controlled vocabularies
