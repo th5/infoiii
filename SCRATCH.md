@@ -104,3 +104,6 @@ OMOP = PI tables + controlled vocabularies
 controlled vocab are hierarchial (sql compatible) linked data: relationship, parent and children
 
 
+PI
+
+balanced maintainability, performance - sql vs imperative code
