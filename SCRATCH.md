@@ -93,3 +93,6 @@ Methods
 Inception cohort (clinical trial
 Case control (smoking)
 Logistic regression
+
+
+Observational study = retroactive study
