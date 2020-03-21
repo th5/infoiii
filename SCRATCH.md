@@ -101,6 +101,6 @@ Observational study = retroactive study
 
 OMOP = PI tables + controlled vocabularies
 
-controlled vocab are linked data: relationship, parent and children
+controlled vocab are hierarchial (sql compatible) linked data: relationship, parent and children
 
 
