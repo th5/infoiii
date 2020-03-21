@@ -83,3 +83,13 @@ Email
 Project trackers
 Tickets
 Instant Messaging
+
+
+
+
+OMOP
+
+Methods
+Inception cohort (clinical trial
+Case control (smoking)
+Logistic regression
