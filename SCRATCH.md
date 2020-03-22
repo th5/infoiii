@@ -113,3 +113,4 @@ fields marked as blinded, and as pii (personally identifiable info)
 history and auditing
 
 app similar to REDCap, with potential for high complexity and additional processing
+competitors used homemade systems similar to redcap, could only handle simpler studies compared with PI
