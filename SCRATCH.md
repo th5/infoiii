@@ -110,3 +110,5 @@ balanced maintainability, performance - sql vs imperative code
 
 tables similar to OMOP, minus vocabulary
 fields marked as blinded, and as pii (personally identifiable info)
+
+app similar to REDCap
