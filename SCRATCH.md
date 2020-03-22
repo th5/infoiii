@@ -107,3 +107,6 @@ controlled vocab are hierarchial (sql compatible) linked data: relationship, par
 PI
 
 balanced maintainability, performance - sql vs imperative code
+
+tables similar to OMOP, minus vocabulary
+fields marked as blinded, and as pii (personally identifiable info)
